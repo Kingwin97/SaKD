@@ -26,7 +26,7 @@ Thank you for your interest in our work. We will release the code after the pape
 
 ## 📌 Overview
 
-SaKD is a spatial-aware knowledge distillation framework for lightweight infrared small target detection and efficient edge deployment. It transfers explicit spatial knowledge from a high-capacity teacher model to a lightweight student model through region, position, and scale consistency.
+SaKD is a spatial-aware knowledge distillation framework for lightweight infrared small target detection and efficient edge deployment. It transfers explicit spatial knowledge from a high-capacity teacher model to a lightweight student model.
 
 <p align="center">
   <img src="assets1/motivation.png" width="100%" alt="Motivation of SaKD">
