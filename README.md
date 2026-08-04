@@ -32,7 +32,7 @@ SaKD is a spatial-aware knowledge distillation framework for lightweight infrare
   <img src="assets1/motivation.png" width="100%" alt="Motivation of SaKD">
 </p>
 
-<p align="center"><em>Motivation of the proposed spatial-aware knowledge distillation framework.</em></p>
+<p align="center"><em>Motivation of the proposed knowledge distillation framework.</em></p>
 
 ---
 
